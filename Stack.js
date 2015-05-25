@@ -4,7 +4,7 @@ function Stack() {
   this.push = push;
   this.pop = pop;
   this.peek = peek;
-  this clear = clear;
+  this.clear = clear;
   this.length = length;
 }
 
