@@ -1,4 +1,5 @@
 load('Stack.js');
+
 var s = new Stack();
 s.push("David");
 s.push("Raymond");
